@@ -2,8 +2,8 @@
 
 The solutions demonstrates two ways to modify the stimulus in myNewExperiment. 
 
-- **Solution 1** [myNewExperiment_imgEdit.html](myNewExperiment_imgEdit.html) shows how we can modify the stimulus images using any common image editor and use the new images in our experiment.
-- **Solution 2 (Recommended)** [myNewExperiment_stimWidth.html]myNewExperiment_stimWidth.html) uses the ***stimulus_width*** parameter from the ***image-keyboard-response*** Jspsych plugin to modify the stimulus presentation.
+- [**Solution 1**](myNewExperiment_imgEdit.html) shows how we can modify the stimulus images using any common image editor and use the new images in our experiment.
+- [**Solution 2 (Recommended)**](myNewExperiment_stimWidth.html) uses the ***stimulus_width*** parameter from the ***image-keyboard-response*** Jspsych plugin to modify the stimulus presentation.
 
 There are always multiple ways to solve a single problem when you're programming. From the two solutions we upload here, we recommend following the more sophisticated **Solution 2** where we use a pre-existing Jspsych parameter (stimulus_width) to manipulate the stimulus instead of generating a new image file for each manipulation.  
 
